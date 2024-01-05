@@ -1,0 +1,12 @@
+li {
+    padding: 5px;
+    margin: 10px;
+    border: 5px solid #003049;
+    background-color: #fefae0;
+}
+.landing-page-title {
+    border: 5px solid #03045e;
+    padding: 15px;
+    margin: auto;
+    background-color: #caf0f8;
+}
